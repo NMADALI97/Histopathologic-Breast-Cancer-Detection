@@ -1,6 +1,6 @@
 # RAMP starting kit on Histopathologic Breast Cancer Detection
 
-Authors: MADALI Nabil,Virgile Renard,Mélanie Karlsen,Philippine Dolique
+Authors: MADALI Nabil,Virgile Rennard,Mélanie Karlsen,Philippine Dolique
 
 <img src="https://soprasteriaanalyticsdotse.files.wordpress.com/2019/02/1-s2.0-s1574789110000268-gr1.jpg?w=720" alt="Drawing" style="width: 700px;"/>
 

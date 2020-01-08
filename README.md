@@ -1,8 +1,8 @@
 # RAMP starting kit on Histopathologic Breast Cancer Detection
 
-\_Authors: MADALI Nabil
+Authors: MADALI Nabil,Virgile Renard,Mélanie Karlsen,Philippine Dolique
 
-<img src="https://timedotcom.files.wordpress.com/2018/04/national-beer-day-ipa.jpg" alt="Drawing" style="width: 700px;"/>
+<img src="images1.jpg" alt="Drawing" style="width: 700px;"/>
 
 #### Set up
 
